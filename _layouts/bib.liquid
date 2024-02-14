@@ -130,7 +130,7 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{entry.journal}}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{entry.journal}} {{entry.volume}} {{entry.number}} {{entry.pages}}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{entry.booktitle}}</em> {% endcapture %}
     {% elsif thesis contains entry.type %}
@@ -152,7 +152,8 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
-
+    <!-- eprint -->
+    <a href="https://arxiv.org/abs/{{entry.eprint}}"><div class="eprint">Arxiv:{{ entry.eprint }}</div></a>
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.abstract %}
