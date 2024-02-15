@@ -23,21 +23,35 @@
   },
   "work": [
     {
-      "name": "Staff member, IFJ PAN",
-      "position": "Staff member, adiunkt",
+      "name": "IFJ PAN Cracow",
+      "position": "Staff scientist, adiunkt",
       "url": "https://th.ifj.edu.pl/",
       "startDate": "2023-10-01",
-      "summary": "Staff member of the theoretical particle physics department. Main interests: higher-order QCD corrections",
-      "highlights": ["NNLO QCD"]
+      "summary": "Member of the theoretical particle physics department. Research interests: higher-order QCD computations for multi-scale processes, jet physics, fixed-order fragmentation, multi-loop computations, subtraction methods",
+      "highlights": ["Mass-effects in Higgs production through NNLO QCD"]
     },
     {
-      "name": "Leverhulme Early Career Fellow, Cavendish Laboratory, Cambridge University",
+      "name": "Cavendish Laboratory, Cambridge University",
       "position": "Leverhulme Early Career Fellow",
       "url": "https://www.precision.hep.phy.cam.ac.uk/",
-      "startDate": "2018-10-01",
+      "startDate": "2021-10-01",
       "endDate": "2023-09-30",
-      "summary": "Funded by the Leverhulme and Isaac Newton Trust.",
-      "highlights": ["NNLO QCD for three jet production"]
+      "summary": "Early career research position funded by the Leverhulme and Isaac Newton Trust. Research interest: higher-order QCD computations for multi-scale processes, jet physics, fixed-order fragmentation, multi-loop computations, subtraction methods",
+      "highlights": ["three-jet production and event shapes at NNLO QCD",
+                     "W+2j production through NNLO QCD",
+                     "flavour-safe anti-kT jet algorithm"]
+    },
+    {
+      "name": "Cavendish Laboratory, Cambridge University",
+      "position": "Research Associate (PostDoc)",
+      "url": "https://www.precision.hep.phy.cam.ac.uk/",
+      "startDate": "2018-10-01",
+      "endDate": "2021-09-30",
+      "summary": "Early career research position funded by the Leverhulme and Isaac Newton Trust. Research interest: higher-order QCD computations, top-quark physics, quark and vector boson polarisation effects, multi-loop computations, subtraction methods",
+      "highlights": ["NNLO QCD top quark pair production including decays",
+                     "NNLO QCD inclusive jets",
+                     "three-photon production",
+                      "polarised vector-boson production at NNLO"]
     }
   ],
   "education": [
@@ -48,7 +62,32 @@
       "area": "Theoretical Particle Physics",
       "studyType": "PhD",
       "startDate": "2015-10-01",
-      "endDate": "2018-09-30"
+      "endDate": "2018-09-30",
+      "courses":["Thesis: Precision Top-Quark Physics with Leptonic Final States",
+                 "Supervisor: Prof. Dr. Michal Czakon",
+                 "Referee: Prof. Dr. Robert Harlander"]
+    },
+    {
+      "institution": "Georg-August University Göttingen, Germany",
+      "location": "Göttingen, Germany",
+      "url": "https://www.uni-goettingen.de/",
+      "area": "Physics",
+      "studyType": "Master",
+      "startDate": "2013-10-01",
+      "endDate": "2015-09-30",
+      "courses":["Thesis: Monte Carlo event generation with the (MC)3 sampling algorithm",
+                 "Supervisor: Prof. Dr. Steffen Schumann"]
+    },
+    {
+      "institution": "Georg-August University Göttingen, Germany",
+      "location": "Göttingen, Germany",
+      "url": "https://www.uni-goettingen.de/",
+      "area": "Physics",
+      "studyType": "Bachelor",
+      "startDate": "2010-10-01",
+      "endDate": "2013-09-30",
+      "courses":["Thesis: Systematic studies on the production of bottom-quarks in parton shower simulations",
+                 "Supervisor: Prof. Dr. Steffen Schumann"]
     }
   ],
   "awards": [
@@ -58,6 +97,11 @@
       "awarder": "Leverhulme Trust",
       "url": "https://www.leverhulme.ac.uk/",
       "summary": "Project: The NNLO QCD revolution: Pushing the boundary of perturbative QCD"
+    },
+    {
+      "title": "Cavendish Laboratory staff reward",
+      "date": "2019-10-01",
+      "awarder": "Cavendish Laboratory"
     }
   ],
   "skills": [
@@ -102,16 +146,79 @@
       ]
     }
   ],
-  "references": [
+  "activity":[
     {
-      "name": "Professor Michal Wiktor Czakon",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "A detailed reference upon request."
+      "title": "Local organising committee ”2PiNTS” workshop, IFJ PAN Cracow",
+      "date": "2023-11"
     },
     {
-      "name": "Professor Alexander Mitov",
+      "title": "QCD@LHC23, convener of ”Processes with heavy quarks” session",
+      "date": "2023-09"
+    },
+    {
+      "title": "PhysTev 23 workshop in Les Houches",
+      "date": "2023-06"
+    },
+    {
+      "title": "DIS2023, convener of WG4 ”QCD and heavy flavor”",
+      "date": "2023-03"
+    },
+    {
+      "title": "Referee for SciPost",
+      "date": "Since 2023"
+    },
+    {
+      "title": "MIAPbP workshop: Gearing up for high-precision LHC physics",
+      "date": "2022-08"
+    },
+    {
+      "title": "DiRAC workshop: Accelerated Computing with Cuda",
+      "date": "2022-06"
+    },
+    {
+      "title": "College Research Associate, Emmanuel College, Cambridge",
+      "date": "2021-2023"
+    },
+    {
+      "title": "Referee for EPJC and JHEP",
+      "date": "Since 2021"
+    },
+    {
+      "title": "DiRAC workshop: DiRAC AI-athon",
+      "date": "2021-02"
+    },
+    {
+      "title": "Organizer of the DAMPT-Cavendish Joint Seminar Series",
+      "date": "2020-2023"
+    },
+    {
+      "title": "CTEQ - MCnet School at DESY",
+      "date": "2016-07"
+    },
+    {
+      "title": "Helmholtz Alliance Monte-Carlo School at DESY",
+      "date": "2015-04"
+    },
+    {
+      "title": "Summer student at DESY",
+      "date": "2013-07",
+      "summary":"Supervisor: Simon Plätzer"
+    },
+    {
+      "title": "Helmholtz Alliance Introduction to the Terascale at DESY",
+      "date": "2013-02"
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Michal Wiktor Czakon, RWTH Aachen University",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "A detaild reference upon request."
+      "reference": "Reference letter upon request."
+    },
+    {
+      "name": "Professor Alexander Mitov, Cambridge University",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Reference letter upon request."
     }
   ],
   "projects": [

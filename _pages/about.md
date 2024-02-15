@@ -14,7 +14,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a staff-scientist in the Department of Theoretical Particle Physics at the Instytut Fizyki Jądrowej Polskiej Akademii Nauk (IFJ PAN).

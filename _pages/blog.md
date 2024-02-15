@@ -4,6 +4,7 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
+img: assets/img/logo.png
 pagination:
   enabled: true
   collection: posts
@@ -16,10 +17,8 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<img src="/assets/img/logo.png" alt="4-loop QCD turtle" style="width:200px;height:200px;display:block;margin-left:auto;margin-right:auto;">
-
-<div class="post">
-
+<img src="../assets/img/logo.png" alt="4-loop QCD turtle" style="width:200px;height:200px;display:block;margin-left:auto;margin-right:auto;">
+<p style="text-align: center;"> (4-loop QCD tortoise - non 1PI) </p>
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
