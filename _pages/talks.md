@@ -18,7 +18,7 @@ nav_order: 6
 
 <h6> <b> N(N)LO 3-jet predictions </b> </h6>
 <p>
-2023.07.10, FermiLab, SM@LHC,
+2023.07.10, FermiLab (remote), SM@LHC,
 <a href="https://indico.fnal.gov/event/59091/">website</a>,
 <a href="../assets/talks/2023.07.10-FermiLab-SM@LHC-poncelet.pdf">slides</a>
 </p>
@@ -204,7 +204,7 @@ nav_order: 6
 
 <h6> <b> Precision Predictions for Polarized Electroweak Bosons </b> </h6>
 <p>
-2023.10.12, Cracow, IFJ theory devision seminar,
+2023.10.12, Cracow, IFJ theory division seminar,
 <a href="../assets/talks/2023.10.12-Cracow-IFJ-seminar-poncelet.pdf">slides</a>
 </p>
 
@@ -222,7 +222,7 @@ nav_order: 6
 
 <h6> <b> Precision phenomenology with multi-jet final states at the LHC </b> </h6>
 <p>
-2023.03.20, Cracow, IFJ theory devision seminar,
+2023.03.20, Cracow, IFJ theory division seminar,
 <a href="../assets/talks/2023.03.20-Cracow-IFJ-seminar-poncelet.pdf">slides</a>
 </p>
 
