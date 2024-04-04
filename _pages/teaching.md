@@ -2,30 +2,28 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: teaching and mentoring experience.
+description: Information about lectures
 nav: true
 nav_order: 7
 ---
 
-<ul>
+<h1> Quantum Field Theory </h1>
 
-<li> Maria Laach Herbstschule, theory coordinator </li>
-<li> Teaching at Cambridge University:
-  <ul>
-   <li> 2023: Supervision of Louis Christou in summer-student programme. </li>
-   <li> 2021-2023: Undergraduate supervisions at Emmanuel College. </li>
-   <li> 2019-2022: Graduate Lecture HEP computing tools at the Cavendish Laboratory.</li>
-   <li> 2019-2022: PhD project co-supervision of Andrei Popescu.</li>
-   <li> 2019 : Part III project co-supervision of Weijun Li.</li>
-  </ul>
-  </li>
-<li> Tutoring of various undergraduate courses at the University of Göttingen (2012-2015) and RWTH Aachen University (2016-2018)
-  <ul>
-   <li> Mechanics </li>
-   <li> Quantummechanics </li>
-   <li> Relativistic Quantummechanics </li>
-   <li> Electrodynamics </li>
-   <li> Mathematics for Physicists </li>
-  </ul>
-  </li>
-</ul>
+
+Thursdays, 9:00 - 10:30, April-June 2024 (8 lectures)
+
+First lecture: 4th April 2024, room MSD
+
+Rene Poncelet and Sebastian Sapeta (IFJ PAN)
+
+In this lecture, we will present the path from the foundations of Quantum Field Theory to its applications in particle physics. Starting from Lagrangian, we shall construct perturbation theory, define a cross-section, and arrive at Feynman rules for scalar theory, Quantum Electrodynamics, and Quantum Chromodynamics. Then, we will use those tools to perform step-by-step calculations of basic scattering processes at tree level and one loop.
+
+The lecture will be given on a blackboard and address PhD students, postdocs, and all researchers interested in systematizing their knowledge of QFT. Weekly exercises and solutions are also provided to review the lecture content. It assumes familiarity with quantum mechanics and special relativity. All the remaining prerequisites, i.e., relativistic quantum mechanics and classical field theory, will be reviewed during the lecture.
+
+<h2> Exercise Sheets </h2>
+
+<h6> <b> Exercise 1: Hamiltonian and Feynman propagator </b> </h6>
+<p>
+To be returned 11th April 2024
+<a href="../assets/pdf/qft_exercise_sheet1.pdf">Download PDF</a>
+</p>

@@ -229,5 +229,42 @@
       "startDate": "2021-10-01",
       "endDate": "2023-09-30"
     }
+  ],
+  "teaching":[
+    {
+      "title": "Theory coordinator, Maria Laach Herbstschule",
+      "date": "2023-09"
+    },
+    {
+      "title": "Graduate Lecture 'HEP Computing Tools', Cavendish Laboratory, Cambridge",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "title": "Tutoring for undergraduate courses (Mechanics, Mathematics for physicists, Quantummechanics, Relativistic Quantummechanics, Thermodynamics), RWTH Aachen",
+      "startDate": "2016",
+      "endDate": "2018"
+    },
+    {
+      "title": "Tutoring for undergraduate courses (Mechanics, Quantummechanics, Thermodynamics), Georg-August University Göttingen",
+      "startDate": "2012",
+      "endDate": "2015"
+    }
+  ],
+  "mentoring":[
+    {
+      "title": "Supervision Louis Christou, Summerstudent & Part III project, Cavendish Laboratory, Cambridge",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "title": "PhD project co-supervision of Andrei Popescu, Cavendish Laboratory, Cambridge",
+      "startDate": "2021",
+      "endDate": "2022"
+    },
+    {
+      "title": "Supervision Weijun Li, Part III project, Cavendish Laboratory, Cambridge",
+      "date": "2019"
+    }
   ]
 }
