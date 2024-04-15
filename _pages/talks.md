@@ -9,6 +9,13 @@ nav_order: 6
 
 <h2>conferences</h2>
 
+<h6> <b>Precise polarisation predictions</b> </h6>
+<p>
+2024.02.28, Izmir, COMETA 1st General Meeting,
+<a href="https://indico.cern.ch/event/1334055/">website</a>,
+<a href="../assets/talks/2024.02.28-Izmir-COMETA-1st-General-Meeting-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b>High precision prediction for multi-scale processes at the LHC</b> </h6>
 <p>
 2024.01.08, Cracow, Epiphany,
@@ -172,6 +179,18 @@ nav_order: 6
 
 
 <h2>seminars</h2>
+<h6> <b> Techniques and phenomenology of NNLO QCD calculations for LHC processes </b> </h6>
+<p>
+2024.04.15, Hamburg, DESY Theory seminar,
+<a href="../assets/talks/2024.04.15-DESY-Hamburg-seminar-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Precision phenomenology with heavy-flavour jets at the LHC </b> </h6>
+<p>
+2024.04.09, Warsaw, NCBJ,
+<a href="../assets/talks/2024.04.09-Warsaw-seminar-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> Techniques and phenomenology of cutting-edge higher-order calculations for LHC processes </b> </h6>
 <p>
 2023.12.18, Goettingen, Georg-August University,
