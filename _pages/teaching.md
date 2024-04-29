@@ -25,5 +25,17 @@ The lecture will be given on a blackboard and address PhD students, postdocs, an
 <h6> <b> Exercise 1: Hamiltonian and Feynman propagator </b> </h6>
 <p>
 To be returned 11th April 2024
-<a href="../assets/pdf/qft_exercise_sheet1.pdf">Download PDF</a>
+<a href="../assets/pdf/qft_lecture/qft_exercise_sheet1.pdf">Download PDF</a>
+</p>
+
+<h6> <b> Exercise 2: Interaction Picture </b> </h6>
+<p>
+To be returned 25th April 2024
+<a href="../assets/pdf/qft_lecture/qft_exercise_sheet2.pdf">Download PDF</a>
+</p>
+
+<h6> <b> Exercise 3: Wick's theorem </b> </h6>
+<p>
+To be returned 16th May 2024
+<a href="../assets/pdf/qft_lecture/qft_exercise_sheet3.pdf">Download PDF</a>
 </p>
