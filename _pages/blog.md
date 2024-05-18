@@ -17,7 +17,7 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-<img src="../assets/img/logo.png" alt="4-loop QCD turtle" style="width:200px;height:200px;display:block;margin-left:auto;margin-right:auto;">
+<img src="../assets/img/logo.png" alt="4-loop QCD turtle" style="width:200px;display:block;margin-left:auto;margin-right:auto;">
 <p style="text-align: center;"> (4-loop QCD tortoise - non 1PI) </p>
 
 {% assign blog_name_size = site.blog_name | size %}

@@ -9,6 +9,13 @@ nav_order: 6
 
 <h2>conferences</h2>
 
+<h6> <b>Polarized predictions in diboson final states</b> </h6>
+<p>
+2024.05.09, Rome, SM@LHC, 
+<a href="https://indico.cern.ch/event/1346940/">website</a>,
+<a href="../assets/talks/2024.05.09-Rome-SM@LHC-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b>Precise polarisation predictions</b> </h6>
 <p>
 2024.02.28, Izmir, COMETA 1st General Meeting,
@@ -331,6 +338,11 @@ nav_order: 6
 
 
 <h2>colloquia</h2>
+<h6> <b> Precision QCD phenomenology for multi-scale processes at the Large Hadron Collider </b> </h6>
+<p>
+2024.04.25, Cracow, IFJ PAN
+<a href="../assets/talks/2024.04.25-Cracow-IFJ-colloquium-poncelet.pdf">slides</a>
+</p>
 <h6> <b> Jet identification and flavoured jet algorithms </b> </h6>
 <p>
 2023.04.18, Aachen, RTG colloquium,
