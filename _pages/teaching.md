@@ -39,3 +39,9 @@ To be returned 25th April 2024
 To be returned 16th May 2024
 <a href="../assets/pdf/qft_lecture/qft_exercise_sheet3.pdf">Download PDF</a>
 </p>
+
+<h6> <b> Exercise 4: Cross sections </b> </h6>
+<p>
+To be returned 27th May 2024
+<a href="../assets/pdf/qft_lecture/qft_exercise_sheet4.pdf">Download PDF</a>
+</p>
