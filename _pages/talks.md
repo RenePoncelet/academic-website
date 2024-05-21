@@ -389,6 +389,14 @@ nav_order: 6
 
 <h2>working groups</h2>
 
+
+<h6> <b> CMP </b> </h6>
+<p>
+2024.05.20, LHCb flavoured jets public meeting,
+<a href="https://indico.cern.ch/event/1403404/">website</a>,
+<a href="../assets/talks/2024.05.20-LHCb-public-flavoured-jets-meeting-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> VLVL: Precision Predictions for Polarized Electroweak Bosons </b> </h6>
 <p>
 2024.01.17, COMETA online meeting WG1,
@@ -458,6 +466,13 @@ at the LHC </b> </h6>
 
 
 <h2>public engagement</h2>
+
+<p>
+<h6> <b> Normalising Flows for Phasespace Integration </b> </h6>
+2024.05.17, Cracow, IFJ Open Day/Science Night,
+<a href="../assets/talks/2024.05.17-Cracow-ScienceNight-poncelet.pdf">poster</a>
+</p>
+
 <p>
 <h6> <b> Exploring Quantum Effects at the Terascale </b> </h6>
 2023.05.26, Cambridge, Isaac Newton Trust brunch,
