@@ -6,7 +6,7 @@
     "email": "rene.poncelet@ifj.edu.pl",
     "phone": "+48 (12) 662-8273",
     "url": "https://th.ifj.edu.pl/poncelet",
-    "summary": "A German-born theoretical particle physicist, now staff member of the IFJ PAN institute",
+    "summary": "A theoretical particle physicist, now staff member of the IFJ PAN institute",
     "location": {
       "address": "ul. Radzikowskiego 152",
       "postalCode": "31-342",
@@ -37,7 +37,7 @@
       "startDate": "2021-10-01",
       "endDate": "2023-09-30",
       "summary": "Early career research position funded by the Leverhulme and Isaac Newton Trust. Research interest: higher-order QCD computations for multi-scale processes, jet physics, fixed-order fragmentation, multi-loop computations, subtraction methods",
-      "highlights": ["three-jet production and event shapes at NNLO QCD",
+      "highlights": ["Three-jet production and event shapes at NNLO QCD",
                      "W+2j production through NNLO QCD",
                      "flavour-safe anti-kT jet algorithm"]
     },
@@ -65,7 +65,8 @@
       "endDate": "2018-09-30",
       "courses":["Thesis: Precision Top-Quark Physics with Leptonic Final States",
                  "Supervisor: Prof. Dr. Michal Czakon",
-                 "Referee: Prof. Dr. Robert Harlander"]
+                 "Referee: Prof. Dr. Robert Harlander",
+                  "Member of DFG Graduate School (GK) \"Teilchen- und Astroteilchenphysik im Lichte von LHC\""]
     },
     {
       "institution": "Georg-August University Göttingen, Germany",
@@ -92,6 +93,11 @@
   ],
   "awards": [
     {
+      "title": "COST ITC conference grant",
+      "date": "2024-05-09",
+      "awarder": "COMETA COST action"
+    },
+    {
       "title": "Leverhulme Early Career Fellowship",
       "date": "2021-10-01",
       "awarder": "Leverhulme Trust",
@@ -102,6 +108,16 @@
       "title": "Cavendish Laboratory staff reward",
       "date": "2019-10-01",
       "awarder": "Cavendish Laboratory"
+    },
+    {
+      "title": "DiRAC RAC computing resources",
+      "date": "2024",
+      "awarder": "STFC"
+    },
+    {
+      "title": "DiRAC RAC computing resources",
+      "date": "2023",
+      "awarder": "STFC"
     }
   ],
   "skills": [
@@ -142,11 +158,19 @@
       "keywords": [
         "Particle Physics",
         "Quantum Chromodynamics",
-        "LHC"
+        "LHC",
+        "Jet physics",
+        "Heavy quarks",
+        "HPC",
+        "Numerical methods"
       ]
     }
   ],
   "activity":[
+    {
+      "title": "Co-organiser of COMETA Colloquium series",
+      "date": "2024-07"
+    },
     {
       "title": "Convener of 'Top+EW' session for ICHEP 24, Prague",
       "date": "2024-07"
@@ -244,6 +268,10 @@
   ],
   "teaching":[
     {
+      "title": "Quantum Field Theory Lecture for PhD students, IFJ PAN, Cracow",
+      "startDate": "2024"
+    },
+    {
       "title": "Theory coordinator, Maria Laach Herbstschule",
       "date": "2023-09"
     },
@@ -253,12 +281,17 @@
       "endDate": "2022"
     },
     {
-      "title": "Tutoring for undergraduate courses (Mechanics, Mathematics for physicists, Quantummechanics, Relativistic Quantummechanics, Thermodynamics), RWTH Aachen",
+      "title": "Undergraduate supervision for Physics 1B A (wave-mechanics, quantum mechanics, statistical methods, solid-state physics), Emmanuel College, Cambridge",
+      "startDate": "2021",
+      "endDate": "2023"
+    },
+    {
+      "title": "Tutoring for undergraduate (Mechanics, Mathematics for physicists, Quantummechanics, Thermodynamics) and graduate courses (Relativistic Quantummechanics), RWTH Aachen",
       "startDate": "2016",
       "endDate": "2018"
     },
     {
-      "title": "Tutoring for undergraduate courses (Mechanics, Quantummechanics, Thermodynamics), Georg-August University Göttingen",
+      "title": "Tutoring for undergraduate courses (Classical mechanics, Electrodynamics, Mathematica methods for physics, Quantummechanics), Georg-August University Göttingen",
       "startDate": "2012",
       "endDate": "2015"
     }
@@ -277,6 +310,28 @@
     {
       "title": "Supervision Weijun Li, Part III project, Cavendish Laboratory, Cambridge",
       "date": "2019"
+    }
+  ],
+  "outreach":[
+    {
+      "title": "Dzień Otwarty IFJ PAN dla studentów 2024, Kraków",
+      "date": "2024-05"
+    },
+    {
+      "title": "Public Engagement workshop, The Science Museum, London",
+      "date": "2023-07"
+    },
+    {
+      "title": "Public talk at Isaac Newton Trust Fellows’ Event, Cambridge University, Cambridge",
+      "date": "2023-05"
+    },
+    {
+      "title": "Engaged Researcher Online, Cambridge University, Cambridge",
+      "date": "2021-03"
+    },
+    {
+      "title": "Scientific contact for a Science Fair, Wirsberg Gymnasium, Würzburg.",
+      "date": "2018-06"
     }
   ]
 }
