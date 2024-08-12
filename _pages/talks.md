@@ -9,6 +9,13 @@ nav_order: 6
 
 <h2>conferences</h2>
 
+<h6> <b>Precision Predictions for Polarized Electroweak Bosons</b> </h6>
+<p>
+2024.07.19, Rome, ICHEP 24, 
+<a href="https://ichep2024.org/">website</a>,
+<a href="../assets/talks/2024.07.17-Praha-ICHEP24-poster-poncelet.pdf">poster</a>
+</p>
+
 <h6> <b>Polarized predictions in diboson final states</b> </h6>
 <p>
 2024.05.09, Rome, SM@LHC, 
@@ -186,6 +193,20 @@ nav_order: 6
 
 
 <h2>seminars</h2>
+
+
+<h6> <b> Precision phenomenology with heavy-flavour jets at the LHC </b> </h6>
+<p>
+2024.07.01, Münster, University of Münster,
+<a href="../assets/talks/2024.07.01-Muenster-seminar-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Precision phenomenology with the sector-improved residue subtraction scheme </b> </h6>
+<p>
+2024.06.27, Dresden, Institute of Nuclear and Particle Physics seminar,
+<a href="../assets/talks/2024.06.26-Dresden-seminar-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> Techniques and phenomenology of NNLO QCD calculations for LHC processes </b> </h6>
 <p>
 2024.04.15, Hamburg, DESY Theory seminar,
