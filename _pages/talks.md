@@ -9,9 +9,16 @@ nav_order: 6
 
 <h2>conferences</h2>
 
+<h6> <b>Precision calculations for heavy-quark production</b> </h6>
+<p>
+2024.10.09, Freiburg, QCD@LHC24, 
+<a href="https://indico.cern.ch/event/1360294/">website</a>,
+<a href="../assets/talks/2024.10.06-Freiburg-QCD@LHC-poncelet.pdf">poster</a>
+</p>
+
 <h6> <b>Precision Predictions for Polarized Electroweak Bosons</b> </h6>
 <p>
-2024.07.19, Rome, ICHEP 24, 
+2024.07.19, Prague, ICHEP 24, 
 <a href="https://ichep2024.org/">website</a>,
 <a href="../assets/talks/2024.07.17-Praha-ICHEP24-poster-poncelet.pdf">poster</a>
 </p>
@@ -372,6 +379,26 @@ nav_order: 6
 
 
 <h2>workshops</h2>
+
+<h6> <b> Polarisation computations in the STRIPPER framework </b> </h6>
+<p>
+2024.09.23, Toulouse (remote), COMETA workshop on vector-boson polarisation, 
+<a href="https://indico.cern.ch/event/1371888/">website</a>,
+<a href="../assets/talks/2024.09.23-Toulouse-COMETA-Polarisation-workshop-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Fixed Order as a proxy to realistic LHC observables? </b> </h6>
+<p>
+2024.09.04, Aspen Center for Physics, Tightening the Gap Between Scattering Amplitudes and Events at the LHC at Higher Orders, black-board, 
+<a href="https://aspenphys.org/summer-workshops/#event2421">website</a>,
+</p>
+
+<h6> <b> STRIPPER subtraction scheme </b> </h6>
+<p>
+2024.08.28, CERN, Frontiers in precision phenomenology: Resummation, Amplitudes, and Subtraction, black-board, 
+<a href="https://indico.cern.ch/event/1354833/">website</a>,
+</p>
+
 <h6> <b> Fixed-order calculations with massive quarks </b> </h6>
 <p>
 2023.11.30, Edinburgh, Heavy Flavour At High PTs,
