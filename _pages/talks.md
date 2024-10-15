@@ -13,7 +13,7 @@ nav_order: 6
 <p>
 2024.10.09, Freiburg, QCD@LHC24, 
 <a href="https://indico.cern.ch/event/1360294/">website</a>,
-<a href="../assets/talks/2024.10.06-Freiburg-QCD@LHC-poncelet.pdf">poster</a>
+<a href="../assets/talks/2024.10.06-Freiburg-QCD@LHC-poncelet.pdf">slides</a>
 </p>
 
 <h6> <b>Precision Predictions for Polarized Electroweak Bosons</b> </h6>
