@@ -380,6 +380,15 @@ nav_order: 6
 
 <h2>workshops</h2>
 
+
+<h6> <b> High precision prediction for multi-scale processes at the LHC </b> </h6>
+<p>
+2024.11.05, Pohang, APCTP Workshop on Precision Calculation and Collider Phenomenology,
+
+<a href="https://indico.cern.ch/event/1439044/">website</a>,
+<a href="../assets/talks/2024.11.05-Pohang-APCTP-workshop-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> Polarisation computations in the STRIPPER framework </b> </h6>
 <p>
 2024.09.23, Toulouse (remote), COMETA workshop on vector-boson polarisation, 
