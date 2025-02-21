@@ -9,6 +9,13 @@ nav_order: 6
 
 <h2>conferences</h2>
 
+<h6> <b>Flavoured jets and how to define them</b> </h6>
+<p>
+2025.01.15, Cracow, Epiphany, 
+<a href="https://epiphany.ifj.edu.pl/epiphany2025/">website</a>,
+<a href="../assets/talks/2025.01.15-Cracow-Epiphany-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b>Precision calculations for heavy-quark production</b> </h6>
 <p>
 2024.10.09, Freiburg, QCD@LHC24, 
@@ -201,6 +208,11 @@ nav_order: 6
 
 <h2>seminars</h2>
 
+<h6> <b> Robust estimates of theoretical uncertainties at fixed-order in perturbation theory </b> </h6>
+<p>
+2025.02.21, Cambridge, Cavendish-DAMTP seminar,
+<a href="../assets/talks/2025.02.21-Cambridge-DAMPT-poncelet.pdf">slides</a>
+</p>
 
 <h6> <b> Precision phenomenology with heavy-flavour jets at the LHC </b> </h6>
 <p>
