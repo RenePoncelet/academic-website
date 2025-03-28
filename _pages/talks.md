@@ -7,7 +7,32 @@ nav: true
 nav_order: 6
 ---
 
-<h2>conferences</h2>
+<h2>colloquia</h2>
+<h6> <b> Precision Predictions for Polarized Electroweak Bosons </b> </h6>
+<p>
+2025.03.07, Amsterdam, NIKHEF
+<a href="../assets/talks/2025.03.07-NIKHEF-colloquium-poncelet.pdf">slides</a>
+</p>
+<h6> <b> Precision QCD phenomenology for multi-scale processes at the Large Hadron Collider </b> </h6>
+<p>
+2024.04.25, Cracow, IFJ PAN
+<a href="../assets/talks/2024.04.25-Cracow-IFJ-colloquium-poncelet.pdf">slides</a>
+</p>
+<h6> <b> Jet identification and flavoured jet algorithms </b> </h6>
+<p>
+2023.04.18, Aachen, RTG colloquium,
+<a href="../assets/talks/2023.04.18-Aachen-RTG-colloquium-poncelet.pdf">slides</a>
+</p>
+
+
+<h2> international conferences</h2>
+
+<h6> <b>Altarelli Prize Talk</b> </h6>
+<p>
+2025.03.28, Capetown, DIS, 
+<a href="https://indico.cern.ch/event/1436959/">website</a>,
+<a href="../assets/talks/2025.03.24-Capetown-DIS-altarelli-award-poncelet.pdf">slides</a>
+</p>
 
 <h6> <b>Flavoured jets and how to define them</b> </h6>
 <p>
@@ -210,6 +235,12 @@ nav_order: 6
 
 <h6> <b> Robust estimates of theoretical uncertainties at fixed-order in perturbation theory </b> </h6>
 <p>
+2025.03.19, Milan, Milan-Bicocca seminar,
+<a href="../assets/talks/2025.03.19-Milan-Bicocca-seminar-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Robust estimates of theoretical uncertainties at fixed-order in perturbation theory </b> </h6>
+<p>
 2025.02.21, Cambridge, Cavendish-DAMTP seminar,
 <a href="../assets/talks/2025.02.21-Cambridge-DAMPT-poncelet.pdf">slides</a>
 </p>
@@ -377,21 +408,7 @@ nav_order: 6
 </p>
 
 
-<h2>colloquia</h2>
-<h6> <b> Precision QCD phenomenology for multi-scale processes at the Large Hadron Collider </b> </h6>
-<p>
-2024.04.25, Cracow, IFJ PAN
-<a href="../assets/talks/2024.04.25-Cracow-IFJ-colloquium-poncelet.pdf">slides</a>
-</p>
-<h6> <b> Jet identification and flavoured jet algorithms </b> </h6>
-<p>
-2023.04.18, Aachen, RTG colloquium,
-<a href="../assets/talks/2023.04.18-Aachen-RTG-colloquium-poncelet.pdf">slides</a>
-</p>
-
-
 <h2>workshops</h2>
-
 
 <h6> <b> High precision prediction for multi-scale processes at the LHC </b> </h6>
 <p>
@@ -561,4 +578,3 @@ at the LHC </b> </h6>
 2018.09.24, Aachen, my PhD defense,
 <a href="../assets/talks/2018.09.24-Aachen-phd-defense-poncelet.pdf">slides</a>
 </p>
-

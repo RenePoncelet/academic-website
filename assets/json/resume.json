@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Rene Poncelet",
-    "label": "Scientist",
+    "label": "Particle physicist",
     "image": "",
     "email": "rene.poncelet@ifj.edu.pl",
     "phone": "+48 (12) 662-8273",
     "url": "https://th.ifj.edu.pl/poncelet",
-    "summary": "A theoretical particle physicist, now staff member of the IFJ PAN institute",
+    "summary": "A theoretical particle physicist at the IFJ PAN institute working on precision calculations for collider phenomenology.",
     "location": {
       "address": "ul. Radzikowskiego 152",
       "postalCode": "31-342",
@@ -24,11 +24,11 @@
   "work": [
     {
       "name": "IFJ PAN Cracow",
-      "position": "Staff scientist, adiunkt",
+      "position": "Staff scientist/Assistant Professor (adiunkt)",
       "url": "https://th.ifj.edu.pl/",
       "startDate": "2023-10-01",
       "summary": "Member of the theoretical particle physics department. Research interests: higher-order QCD computations for multi-scale processes, jet physics, fixed-order fragmentation, multi-loop computations, subtraction methods",
-      "highlights": ["Mass-effects in Higgs production through NNLO QCD"]
+      "highlights": ["Mass-effects in Higgs production through NNLO QCD","Fragmentation processes","Theory uncertainties"]
     },
     {
       "name": "Cavendish Laboratory, Cambridge University",
@@ -93,9 +93,14 @@
   ],
   "awards": [
     {
-      "title": "COST ITC conference grant",
-      "date": "2024-05-09",
-      "awarder": "COMETA COST action"
+      "title": "Guido Altarelli Award",
+      "date": "2025-03-24",
+      "awarder": "EPJ, World Scientific, Centro Ricerche Enrico Fermi"
+    },
+    {
+      "title": "IFJ PAN Directors Award",
+      "date": "2024-11-21",
+      "awarder": "IFJ PAN"
     },
     {
       "title": "Leverhulme Early Career Fellowship",
@@ -108,16 +113,6 @@
       "title": "Cavendish Laboratory staff reward",
       "date": "2019-10-01",
       "awarder": "Cavendish Laboratory"
-    },
-    {
-      "title": "DiRAC RAC computing resources",
-      "date": "2024",
-      "awarder": "STFC"
-    },
-    {
-      "title": "DiRAC RAC computing resources",
-      "date": "2023",
-      "awarder": "STFC"
     }
   ],
   "skills": [
@@ -127,15 +122,22 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Quantum Chromodynamics",
-        "Perturbation Theory"
+        "Perturbation Theory",
+        "Subtraction schemes",
+        "Monte Carlo integration",
+        "Collider Phenomenology"
       ]
     },
     {
-      "name": "Programming",
+      "name": "Programming/Software",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "C++",
-        "Mathematica"
+        "Python",
+        "Fortran",
+        "Mathematica",
+        "FORM",
+        "bash"
       ]
     }
   ],
@@ -164,9 +166,26 @@
         "HPC",
         "Numerical methods"
       ]
+    },
+    {
+      "name": "Outdoor activities",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Running",
+        "Hiking",
+        "Climbing"
+      ]
     }
   ],
   "activity":[
+    {
+      "title": "International Advisory Committee TOP workshop",
+      "date": "2025-01"
+    },
+    {
+      "title": "Local organisation chair for 2nd COMETA General Meeting",
+      "date": "2024-10"
+    },
     {
       "title": "Co-organiser of COMETA Colloquium series",
       "date": "2024-07"
@@ -313,6 +332,10 @@
     }
   ],
   "outreach":[
+    {
+      "title": "Popular science article: ”The Higgs does not seem to contain any factors from new physics”, Eurekalert",
+      "date": "2024-07"
+    },
     {
       "title": "Dzień Otwarty IFJ PAN dla studentów 2024, Kraków",
       "date": "2024-05"

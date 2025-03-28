@@ -9,10 +9,9 @@ nav_order: 7
 
 <h1> Quantum Field Theory </h1>
 
+Fridays, 12:00 - 13:30, March-June 2025 (10 lectures)
 
-Thursdays, 9:00 - 10:30, April-June 2024 (8 lectures)
-
-First lecture: 4th April 2024, room MSD
+First lecture: 21st March 2025, room MSD
 
 Rene Poncelet and Sebastian Sapeta (IFJ PAN)
 
@@ -20,28 +19,20 @@ In this lecture, we will present the path from the foundations of Quantum Field 
 
 The lecture will be given on a blackboard and address PhD students, postdocs, and all researchers interested in systematizing their knowledge of QFT. Weekly exercises and solutions are also provided to review the lecture content. It assumes familiarity with quantum mechanics and special relativity. All the remaining prerequisites, i.e., relativistic quantum mechanics and classical field theory, will be reviewed during the lecture.
 
+<h2> Lecture notes </h2>
+
+<a href="../assets/pdf/qft_lecture/lecture-notes.pdf">Download PDF</a>
+
+<h6> <b> Lecture 1: Scalar field theory and canonical quantisation </b> </h6>
+<p>
+21st April 2025
+</p>
+
 <h2> Exercise Sheets </h2>
 
 <h6> <b> Exercise 1: Hamiltonian and Feynman propagator </b> </h6>
 <p>
-To be returned 11th April 2024
+To be returned 11th April 2025
 <a href="../assets/pdf/qft_lecture/qft_exercise_sheet1.pdf">Download PDF</a>
 </p>
 
-<h6> <b> Exercise 2: Interaction Picture </b> </h6>
-<p>
-To be returned 25th April 2024
-<a href="../assets/pdf/qft_lecture/qft_exercise_sheet2.pdf">Download PDF</a>
-</p>
-
-<h6> <b> Exercise 3: Wick's theorem </b> </h6>
-<p>
-To be returned 16th May 2024
-<a href="../assets/pdf/qft_lecture/qft_exercise_sheet3.pdf">Download PDF</a>
-</p>
-
-<h6> <b> Exercise 4: Cross sections </b> </h6>
-<p>
-To be returned 27th May 2024
-<a href="../assets/pdf/qft_lecture/qft_exercise_sheet4.pdf">Download PDF</a>
-</p>
