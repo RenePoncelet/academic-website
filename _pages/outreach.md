@@ -35,5 +35,5 @@ Intrigued by the idea of visualising the abstract topic of particle physics arti
 
 <h5> <b> About the artist </b> </h5>
 <p>
-Judith Fronczek-Poncelet is a hobby artist interested in motives of nature, both realistic and fantastical. Typically working with chalk, crayons, and pencils, she recently started to use impressionistic oil paintings as a medium.
+Judith Fronczek-Poncelet is a hobby artist interested in motives of nature, both realistic and fantastical. Typically working with chalk and coloured pencils, she recently started to use impressionistic oil paintings as a medium.
 </p>
