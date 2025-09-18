@@ -13,6 +13,7 @@ Rene Poncelet
 
 <h2> Team Members </h2>
 
+more team members soon :)
 
 <h2> Open positions </h2>
 

@@ -24,7 +24,7 @@
   "work": [
     {
       "name": "IFJ PAN Cracow",
-      "position": "Staff scientist/Assistant Professor (adiunkt)",
+      "position": "Staff scientist (adiunkt)",
       "url": "https://th.ifj.edu.pl/",
       "startDate": "2023-10-01",
       "summary": "Member of the theoretical particle physics department. Research interests: higher-order QCD computations for multi-scale processes, jet physics, fixed-order fragmentation, multi-loop computations, subtraction methods",
@@ -277,6 +277,20 @@
     }
   ],
   "projects": [
+    {
+      "name": "STAPLE: Shower Thoughts About Precision LHC Eventsimulation",
+      "summary": "This project aims to combine insights from recent progress in second-order perturbative QCD computations and understanding the logarithmic accuracy of parton-shower simulations to develop a precision event simulation at NNLO+PS accuracy. The event simulation will deliver accurate and precise predictions for scattering processes and will be a STAPLE of precision physics at the LHC and beyond.",
+      "highlights": ["NNLO+PS Simulations"],
+      "startDate": "2026-02-01",
+      "endDate": "2031-01-31"
+    },
+    {
+      "name": "P3EWSB: High Precision Predictions to Probe the ElectroWeak-Symmetry Breaking",
+      "summary": "This project aims to advance the precision of theory predictions for polarised cross-sections to the level required for experimental studies. This will be achieved by computing quantum corrections and investigating their impact on quantities measured at the LHC and future colliders.",
+      "highlights": ["NNLO QCD corrections to polarised cross section","HighTEA"],
+      "startDate": "2025-10-01",
+      "endDate": "2028-09-30"
+    },
     {
       "name": "The NNLO QCD revolution: Pushing the boundaries of perturbative QCD",
       "summary": "Precision predictions from the Standard Model of Particle physics are essential to understand collider data. This project concerned the computation of second order QCD corrections for standard candle processes at the LHC. ",
