@@ -2,7 +2,7 @@
 layout: page
 title: Top-quark pair production and decay
 description: Higher-order corrections to top-quark production and their decays
-img: assets/img/project-top.png
+img: assets/img/project-top-wp.png
 importance: 3
 category: work
 related_publications:

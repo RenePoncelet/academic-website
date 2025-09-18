@@ -2,7 +2,7 @@
 layout: page
 title: Heavy flavour production
 description: Precision predictions for heavy flavour production
-img: assets/img/project-hf.png
+img: assets/img/project-hf-wp.png
 importance: 2
 category: work
 related_publications:

@@ -2,13 +2,13 @@
 layout: page
 title: HighTEA
 description: A database framework for theory events for high-energy physics
-img: assets/img/hightea.png
+img: assets/img/project-hightea-wp.png
 importance: 3
 category: work
 related_publications:
 ---
 
-<img src="../../assets/img/hightea.png" alt="HighTEA logo" style="width:200px;display:block;margin-left:auto;margin-right:auto;">
+<img src="../../assets/img/project-hightea-wp.png" alt="HighTEA logo" style="width:200px;display:block;margin-left:auto;margin-right:auto;">
 
 <p align="justify">
 Higher-order corrections, particularly those in Quantum Chromodynamics (QCD), are crucial for precision phenomenology at collider experiments such as the Large Hadron Collider (LHC). The computation of these perturbative corrections is computationally expensive (i.e. they need many CPU core hours), especially for corrections beyond the next-to-leading order.

@@ -2,7 +2,7 @@
 layout: page
 title: Polarized bosons
 description: Precision predictions for polarized boson production
-img: assets/img/polwscattering.png
+img: assets/img/project-polwscattering-wp.png
 importance: 2
 category: work
 related_publications:
