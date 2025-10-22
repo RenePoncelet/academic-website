@@ -8,6 +8,11 @@ nav_order: 6
 ---
 
 <h2>colloquia</h2>
+<h6> <b> Pinning down the Standard Model - Precision phenomenology at the LHC - </b> </h6>
+<p>
+2025.10.02, Cracow, IFJPAN
+<a href="../assets/talks/2025.10.02-Cracow-IFJPAN-colloquium-poncelet.pdf">slides</a>
+</p>
 <h6> <b> Precision Predictions for Polarized Electroweak Bosons </b> </h6>
 <p>
 2025.03.07, Amsterdam, NIKHEF
@@ -26,6 +31,34 @@ nav_order: 6
 
 
 <h2> international conferences</h2>
+
+<h6> <b>Results from the COMETA ZZ polarization study</b> </h6>
+<p>
+2025.10.09, Waltham - Brandeis University, MBI,
+<a href="https://indico.cern.ch/event/1486369/">website</a>,
+<a href="../assets/talks/2025.10.09-Brandeis-MBI-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b>Theory uncertainties from theory nuisance parameters in fixed-order QCD</b> </h6>
+<p>
+2025.09.24, Korfu (remote), ISMD,
+<a href="https://indico.cern.ch/event/1371434">website</a>,
+<a href="../assets/talks/2025.09.24-ISMD2025-remote-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b>Quark Mass Effects in Higgs Boson Processes</b> </h6>
+<p>
+2025.04.09, Durham, SM@LHC,
+<a href="https://conference.ippp.dur.ac.uk/event/1429">website</a>,
+<a href="../assets/talks/2025.04.09-Durham-SM@LHC-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b>Robust estimates of theoretical uncertainties at fixed-order in perturbation theory</b> </h6>
+<p>
+2025.04.03, La Thuile, Moriond 59,
+<a href="https://moriond.in2p3.fr/QCD/">website</a>, <a href="https://indico.cern.ch/event/1480248/">indico</a>,
+<a href="../assets/talks/2025.04.03-LaThuile-Moriond59-poncelet.pdf">slides</a>
+</p>
 
 <h6> <b>Altarelli Prize Talk</b> </h6>
 <p>
@@ -233,6 +266,30 @@ nav_order: 6
 
 <h2>seminars</h2>
 
+<h6> <b> Pinning down the Standard Model - Precision phenomenology at the LHC - </b> </h6>
+<p>
+2025.10.15, Providence - Brown University,
+<a href="../assets/talks/2025.10.15-Brown-seminar-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Pinning down the Standard Model - Precision phenomenology at the LHC - </b> </h6>
+<p>
+2025.10.14, New Haven - Yale University, NPA seminar,
+<a href="../assets/talks/2025.10.14-NewHaven-seminar-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Theory uncertainties from theory nuisance parameters </b> </h6>
+<p>
+2025.09.09, Gent, Particle physics seminar,
+<a href="../assets/talks/2025.09.09-Gent-seminar-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Theory uncertainties from theory nuisance parameters </b> </h6>
+<p>
+2025.07.08, Munich, TUM/MPP Phenomenology seminar,
+<a href="../assets/talks/2025.07.08-Munich-seminar-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> Robust estimates of theoretical uncertainties at fixed-order in perturbation theory </b> </h6>
 <p>
 2025.03.19, Milan, Milan-Bicocca seminar,
@@ -410,6 +467,35 @@ nav_order: 6
 
 <h2>workshops</h2>
 
+<h6> <b> Fixed-order parton-level ‘events’ </b> </h6>
+<p>
+2025.10.02, CERN (remote), Monte Carlo Working Group,
+<a href="https://indico.cern.ch/event/1568443/">website</a>,
+<a href="../assets/talks/2025.10.02-CERN-MCWG-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Higher-order QCD calculations for hard scattering processes </b> </h6>
+<p>
+2025.09.23, Cracow, Joint ECFA-NuPECC-APPEC Workshop “Synergies between the EIC and the LHC”,
+<a href="https://indico.ifj.edu.pl/event/1417/">website</a>,
+<a href="../assets/talks/2025.09.23-Cracow-EIC-LHC-workshop-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Precision Measurements - Theory </b> </h6>
+<p>
+2025.06.17, Les Houches, PhysTeV 2025,
+<a href="https://indico.in2p3.fr/event/34495/">website</a>,
+<a href="../assets/talks/2025.06.17-LesHouches-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Treatment of non-positive definite integrands with Normalising Flows </b> </h6>
+<p>
+2025.05.07, CERN, Negative weight suppression in Monte Carlo samples,
+
+<a href="https://indico.cern.ch/event/1501347/">website</a>,
+<a href="../assets/talks/2025.05.07-CERN-negativeweights-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> High precision prediction for multi-scale processes at the LHC </b> </h6>
 <p>
 2024.11.05, Pohang, APCTP Workshop on Precision Calculation and Collider Phenomenology,
@@ -567,6 +653,13 @@ at the LHC </b> </h6>
 
 
 <h2>other</h2>
+
+<p>
+<h6> <b> Precision QCD phenomenology for multi-scale processes at the Large Hadron Collider </b> </h6>
+2025.10.20, Cracow - IFJ PAN, my habilitation defense,
+<a href="../assets/talks/2025.10.20-habilitation-defense-poncelet.pdf">slides</a>
+</p>
+
 <p>
 <h6> <b> Spin correlation in top-quark pair production </b> </h6>
 2022.07.21, CERN, collider cross-talk,
