@@ -268,6 +268,12 @@ nav_order: 6
 
 <h6> <b> Pinning down the Standard Model - Precision phenomenology at the LHC - </b> </h6>
 <p>
+2025.10.24, Cracow, AGH Bialasowka,
+<a href="../assets/talks/2025.10.24-Cracow-AGH-seminar-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Pinning down the Standard Model - Precision phenomenology at the LHC - </b> </h6>
+<p>
 2025.10.15, Providence - Brown University,
 <a href="../assets/talks/2025.10.15-Brown-seminar-poncelet.pdf">slides</a>
 </p>
