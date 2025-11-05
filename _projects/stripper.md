@@ -3,7 +3,7 @@ layout: page
 title: STRIPPER
 description: SecToR Improved Phase sPacE for real Radiation -- A NNLO QCD subtraction scheme
 img: assets/img/project-sirs-wp.png
-importance: 1
+importance: 4
 category: work
 related_publications:
 ---

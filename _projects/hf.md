@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Heavy flavour production
+title: Heavy flavour
 description: Precision predictions for heavy flavour production
 img: assets/img/project-hf-wp.png
-importance: 2
+importance: 5
 category: work
 related_publications:
 ---
@@ -28,6 +28,9 @@ The transverse momenta are typically small in the QCD production of bottom/charm
 
 <h2> Related publications </h2>
 <div class="publications">
+  {% bibliography -f papers -q @*[key=Generet:2025bqx]* %}
+  {% bibliography -f papers -q @*[key=Behring:2025ilo]* %}
+  {% bibliography -f papers -q @*[key=Czakon:2024tjr]* %}
   {% bibliography -f papers -q @*[key=CMS:2023aim]* %}
   {% bibliography -f papers -q @*[key=Poncelet:2022bit]* %}
   {% bibliography -f papers -q @*[key=Czakon:2022khx]* %}

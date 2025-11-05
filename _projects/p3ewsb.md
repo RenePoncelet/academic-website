@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Polarized bosons
-description: Precision predictions for polarized boson production
+title: P3EWSB
+description: High Precision Predictions to Probe the Electroweak-Symmetry-Breaking Mechanism
 img: assets/img/project-polwscattering-wp.png
 importance: 2
 category: work
@@ -39,12 +39,17 @@ This project aims to push the precision of theory predictions for polarised cros
 </p>
 
 <p align="justify">
-Related to this effort is the COST action <a href="https://cometa.web.cern.ch/"> COMETA</a> and the activities of WG 1.
+The project P3EWSB has been funded by the NCN as a SONATA project under the agreement 2024/55/D/ST2/00934. Related to this effort is the COST action <a href="https://cometa.web.cern.ch/"> COMETA</a> and the activities of WG 1.
 </p>
 
 
 <h2> Related publications </h2>
 <div class="publications">
+  {% bibliography -f papers -q @*[key=Pelliccioli:2025com]* %}
+  {% bibliography -f papers -q @*[key=Carrivale:2025mjy]* %}
+  {% bibliography -f papers -q @*[key=Poncelet:2024daj]* %}
+  {% bibliography -f papers -q @*[key=Czakon:2024ywb]* %}
+  {% bibliography -f papers -q @*[key=Czakon:2023kqm]* %}
   {% bibliography -f papers -q @*[key=Pellen:2022fom]* %}
   {% bibliography -f papers -q @*[key=Pellen:2021vpi]* %}
   {% bibliography -f papers -q @*[key=Poncelet:2021jmj]* %}

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A description of the various research topics I'm interested in.
+description: Precision Standard Model Phenomenonogy
 nav: true
 nav_order: 3
 display_categories: [work]
