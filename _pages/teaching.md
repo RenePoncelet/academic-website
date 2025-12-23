@@ -9,9 +9,9 @@ nav_order: 7
 
 <h1> Quantum Field Theory </h1>
 
-Fridays, 12:00 - 13:30, March-June 2025 (10 lectures)
+The 2026 lecture series is not yet fixed but likely March-June 2026 (10 lectures).
 
-First lecture: 21st March 2025, room MSD
+First lecture: TBA
 
 Rene Poncelet and Sebastian Sapeta (IFJ PAN)
 
@@ -25,14 +25,54 @@ The lecture will be given on a blackboard and address PhD students, postdocs, an
 
 <h6> <b> Lecture 1: Scalar field theory and canonical quantisation </b> </h6>
 <p>
-21st April 2025
+TBA
+</p>
+<h6> <b> Lecture 2: Scalar field theory and canonical quantisation II </b> </h6>
+<p>
+TBA
+</p>
+<h6> <b> Lecture 3: Interacting fields and Gellmann-Low formula </b> </h6>
+<p>
+TBA
+</p>
+<h6> <b> Lecture 4: Perturbation theory </b> </h6>
+<p>
+TBA
+</p>
+<h6> <b> Lecture 5: Scattering processes and LSZ formula</b> </h6>
+<p>
+TBA
 </p>
 
 <h2> Exercise Sheets </h2>
 
 <h6> <b> Exercise 1: Hamiltonian and Feynman propagator </b> </h6>
 <p>
-To be returned 11th April 2025
+To be returned TBA
 <a href="../assets/pdf/qft_lecture/qft_exercise_sheet1.pdf">Download PDF</a>
 </p>
 
+<h6> <b> Exercise 2: Interaction Picture </b> </h6>
+<p>
+To be returned TBA
+<a href="../assets/pdf/qft_lecture/qft_exercise_sheet2.pdf">Download PDF</a>
+</p>
+
+<h6> <b> Exercise 3: Wick’s theorem </b> </h6>
+<p>
+To be returned TBA
+<a href="../assets/pdf/qft_lecture/qft_exercise_sheet3.pdf">Download PDF</a>
+</p>
+
+<h6> <b> Exercise 4: Cross-sections </b> </h6>
+<p>
+To be returned TBA
+<a href="../assets/pdf/qft_lecture/qft_exercise_sheet4.pdf">Download PDF</a>
+</p>
+
+<h1> Higher-order calculations in QCD </h1>
+
+Higher-order QCD lecture held at the <a href="https://indico.desy.de/event/46741/overview">Terascale Monte Carlo School 2026</a>.
+<p>
+<a href="../assets/pdf/QCD-lecture.pdf">Download PDF</a>
+</p>

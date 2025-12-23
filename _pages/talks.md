@@ -8,6 +8,11 @@ nav_order: 6
 ---
 
 <h2>colloquia</h2>
+<h6> <b> State of the art higher order calculations for LHC physics </b> </h6>
+<p>
+2025.12.09, Aachen, RTG colloquium,
+<a href="../assets/talks/2025.12.09-Aachen-RTG-Colloquium-poncelet.pdf">slides</a>
+</p>
 <h6> <b> Pinning down the Standard Model - Precision phenomenology at the LHC - </b> </h6>
 <p>
 2025.10.02, Cracow, IFJPAN
@@ -473,6 +478,13 @@ nav_order: 6
 
 <h2>workshops</h2>
 
+<h6> <b> Impact of higher-order theory uncertainties on alpha-S extractions at the LHC </b> </h6>
+<p>
+2025.12.17, Aussois, alphas-2025: Workshop on precision measurements of the strong coupling constant,
+<a href="https://indico.cern.ch/event/1536930/">website</a>,
+<a href="../assets/talks/2025.12.17-Aussois-alphas-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> Fixed-order parton-level ‘events’ </b> </h6>
 <p>
 2025.10.02, CERN (remote), Monte Carlo Working Group,
@@ -567,6 +579,12 @@ nav_order: 6
 
 <h2>working groups</h2>
 
+<h6> <b> Polarised-boson predictions in multi-boson processes </b> </h6>
+<p>
+2025.11.17, General LHC EW Meeting,
+<a href="https://indico.cern.ch/event/1593081/overview">website</a>,
+<a href="../assets/talks/2025.11.17-CERN-EW-WG-poncelet.pdf">slides</a>
+</p>
 
 <h6> <b> CMP </b> </h6>
 <p>

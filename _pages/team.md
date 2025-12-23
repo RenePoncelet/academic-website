@@ -19,18 +19,18 @@ more team members soon :)
 
 Below you can find announcements for open project funded position within my group.
 
-Besides the project funded positions I happy to support applications for <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">Marie-Curie-Fellowships</a> within our Department. The MCA calls have typically deadlines around August/September.
+Besides the project funded positions I happy to support applications for <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">Marie-Curie-Fellowships</a> within our department. The MCA calls have typically deadlines around August/September.
 
 If you have any questions, don't hesitate to get touch via <i>rene.poncelet@ifj.edu.pl</i>
 
 <h4>PhD positions </h4>
 
-A PhD student position with the NCN project P3EWSB will be opened soon. Stay tuned.
+A PhD student position with the NCN project P3EWSB is open, please find information <a href="https://kisd.ifj.edu.pl/recruitment-for-project_2025_p15/">here</a>.
 
 Two PhD student positions with the ERC project STAPLE will be opened soon. Stay tuned.
 
 <h4>PostDoc positions </h4>
 
-A post doctoral position with the NCN project P3EWSB will be opened soon. Stay tuned.
+A post doctoral position with the NCN project P3EWSB is to be filled soon.
 
-Two post doctoral positions with the ERC project STAPLE will be opened soon. Stay tuned.
+Two post doctoral positions with the ERC project STAPLE is to be filled soon.
