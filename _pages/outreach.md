@@ -9,6 +9,11 @@ nav_order: 8
 
 <h2>Popularisation articles</h2>
 
+<h6> <b>Better understanding of the unknown leads to more accurate collision simulations</b> </h6>
+<p>
+2026 March, Eurekalert, <a href="https://www.eurekalert.org/news-releases/1118856">link</a>
+</p>
+
 <h6> <b>The Higgs does not seem to contain any factors from new physics</b> </h6>
 <p>
 2024 July, Eurekalert, <a href="https://www.eurekalert.org/news-releases/1051057">link</a>

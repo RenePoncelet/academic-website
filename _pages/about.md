@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a staff scientist in the Department of Theoretical Particle Physics at the Instytut Fizyki Jądrowej Polskiej Akademii Nauk (IFJ PAN).
+I am a staff scientist in the Department of Theoretical Particle Physics at the Instytut Fizyki Jądrowej Polskiej Akademii Nauk (IFJ PAN) and my research focuses on developing precision predictions for high-energy collisions at colliders.
 
 Our understanding of the universe’s fundamental building blocks is largely dominated by measurements made in earth-based scattering experiments at high energies, like the Large Hadron Collider (LHC). It is the minute comparison between measured scattering cross-sections and first-principle theory predictions that allows us to distinguish and constrain different models of microscopic physics. This strategy guides our knowledge about elementary particles and their dynamics. With the next two decades of the LHC and the potential Future Circular Collider in mind, collider experiments will, also in the future, be at the heart of mankind’s efforts to unveil the secrets of nature.
 

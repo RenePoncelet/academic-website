@@ -37,6 +37,41 @@ nav_order: 6
 
 <h2> international conferences</h2>
 
+<h6> <b>Variance reduction with Normalizing Flows </b> </h6>
+<p>
+2026.05.20, Paris, LHCP,
+<a href="https://indico.cern.ch/event/1537360/">website</a>,
+<a href="../assets/talks/2026.05.20-Paris-LHCP-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b>Precision theory for high-energy colliders </b> </h6>
+<p>
+2026.05.12, Blois, Rencontres de Blois,
+<a href="https://indico.cern.ch/event/1598890/">website</a>,
+<a href="../assets/talks/2026.05.12-Blois-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b>QCD simulations and Monte Carlo </b> </h6>
+<p>
+2026.05.04, Bologna, DIS,
+<a href="https://agenda.infn.it/event/47074/">website</a>,
+<a href="../assets/talks/2026.05.04-Bologna-DIS26-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b>How much color do we really need? </b> </h6>
+<p>
+2026.03.27, La Thuile, 60th Rencontres de Moriond,
+<a href="https://indico.cern.ch/event/1648766/">website</a>,
+<a href="../assets/talks/2026.03.27-LaThuile-Moriond60-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b>Variance reduction with Normalizing Flows</b> </h6>
+<p>
+2026.01.06, Zurich, Zurich Phenomenology Workshop 2026,
+<a href="https://indico.cern.ch/event/1604420/">website</a>,
+<a href="../assets/talks/">slides</a>
+</p>
+
 <h6> <b>Results from the COMETA ZZ polarization study</b> </h6>
 <p>
 2025.10.09, Waltham - Brandeis University, MBI,
@@ -478,6 +513,20 @@ nav_order: 6
 
 <h2>workshops</h2>
 
+
+<h6> <b> Uncertainties from missing higher orders for precision measurements </b> </h6>
+<p>
+2026.03.03, Pisa (remote), CMS Open Symposium of the W mass,
+<a href="https://indico.cern.ch/event/1615651/">website</a>,
+<a href="../assets/talks/2026.03.03-CMS-wmass-workshop-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> NNLO QCD corrections for ttbar+jet production </b> </h6>
+<p>
+2026.01.30, remote - not public, CMS Top-quark mass workshop,
+<a href="../assets/talks/2026.01.30-CMS-top-workshop-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> Impact of higher-order theory uncertainties on alpha-S extractions at the LHC </b> </h6>
 <p>
 2025.12.17, Aussois, alphas-2025: Workshop on precision measurements of the strong coupling constant,
@@ -578,6 +627,13 @@ nav_order: 6
 
 
 <h2>working groups</h2>
+
+<h6> <b> Multi-boson polarizations </b> </h6>
+<p>
+2026.03.31, General LHC EW Meeting,
+<a href="https://indico.cern.ch/event/1641306/">website</a>,
+<a href="../assets/talks/2026.03.31-CERN-EWGeneralMeeting-poncelet.pdf">slides</a>
+</p>
 
 <h6> <b> Polarised-boson predictions in multi-boson processes </b> </h6>
 <p>

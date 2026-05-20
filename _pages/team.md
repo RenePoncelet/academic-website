@@ -13,7 +13,11 @@ Rene Poncelet
 
 <h2> Team Members </h2>
 
-more team members soon :)
+<h3> Gioanni Limantola - PostDoc</h3>
+<h3> Manuel Lopez - PhD </h3>
+<h3> Giulia Marinelli - PostDoc</h3>
+<h3> Minos Rainartz - PostDoc</h3>
+
 
 <h2> Open positions </h2>
 
@@ -25,12 +29,8 @@ If you have any questions, don't hesitate to get touch via <i>rene.poncelet@ifj.
 
 <h4>PhD positions </h4>
 
-A PhD student position with the NCN project P3EWSB is open, please find information <a href="https://kisd.ifj.edu.pl/recruitment-for-project_2025_p15/">here</a>.
-
-Two PhD student positions with the ERC project STAPLE will be opened soon. Stay tuned.
+A PhD student position with the ERC project STAPLE is open, please find information <a href="https://kisd.ifj.edu.pl/recruitment-for-project_2025_p15/">here</a>.
 
 <h4>PostDoc positions </h4>
 
-A post doctoral position with the NCN project P3EWSB is to be filled soon.
-
-Two post doctoral positions with the ERC project STAPLE is to be filled soon.
+No new positions available

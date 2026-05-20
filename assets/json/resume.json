@@ -24,9 +24,18 @@
   "work": [
     {
       "name": "IFJ PAN Cracow",
+      "position": "Institute Professor",
+      "url": "https://th.ifj.edu.pl/",
+      "startDate": "2026-03-01",
+      "summary": "Member of the theoretical particle physics department. Research interests: higher-order QCD computations for multi-scale processes, jet physics, fixed-order fragmentation, multi-loop computations, subtraction methods",
+      "highlights": ["N3LO QCD","Top-quark physics","Theory uncertainties"]
+    },
+    {
+      "name": "IFJ PAN Cracow",
       "position": "Staff scientist (adiunkt)",
       "url": "https://th.ifj.edu.pl/",
       "startDate": "2023-10-01",
+      "endDate": "2026-02-28",
       "summary": "Member of the theoretical particle physics department. Research interests: higher-order QCD computations for multi-scale processes, jet physics, fixed-order fragmentation, multi-loop computations, subtraction methods",
       "highlights": ["Mass-effects in Higgs production through NNLO QCD","Fragmentation processes","Theory uncertainties"]
     },
@@ -55,6 +64,16 @@
     }
   ],
   "education": [
+    {
+      "institution": "IFJ PAN",
+      "location": "Krakow, Poland",
+      "url": "https://www.rwth-aachen.de/",
+      "area": "Theoretical Particle Physics",
+      "studyType": "Doctor habilitated (dr hab)",
+      "startDate": "2023-10-01",
+      "endDate": "2024-11-24",
+      "courses":["Based on the scientific achievement: Pioneering research on higher-order calculations on multi-scale processes, including the first computations of next-to-next-to-leading order corrections in Quantum Chromodynamics to all massless two-to-three processes relevant at the Large Hadron Collider."]
+    },
     {
       "institution": "RWTH Aachen University, Germany",
       "location": "Aachen, Germany",
@@ -92,6 +111,11 @@
     }
   ],
   "awards": [
+    {
+      "title": "Małopolska Polish Academy of Sciences Award - Distinction",
+      "date": "2026-05-21",
+      "awarder": "PAN Krakw"
+    },
     {
       "title": "Guido Altarelli Award",
       "date": "2025-03-24",
@@ -178,6 +202,30 @@
     }
   ],
   "activity":[
+    {
+      "title": "International Advisory Committee TOP workshop",
+      "date": "2026-01"
+    },
+    {
+      "title": "LHCP 2026 QCD session convener",
+      "date": "2026-01"
+    },
+    {
+      "title": "DIS 2026 EW session convener",
+      "date": "2026-01"
+    },
+    {
+      "title": "Boost 2026 Local Organizing Committee",
+      "date": "2025-11"
+    },
+    {
+      "title": "COMETA WG1 co-leader",
+      "date": "2025-10"
+    },
+    {
+      "title": "PhysTeV 2025 SM convener",
+      "date": "2026-01"
+    },
     {
       "title": "International Advisory Committee TOP workshop",
       "date": "2025-01"
@@ -346,6 +394,10 @@
     }
   ],
   "outreach":[
+    {
+      "title": "Popular science article: ”Better understanding of the unknown leads to more accurate collision simulations”, Eurekalert",
+      "date": "2026-03"
+    },
     {
       "title": "Popular science article: ”The Higgs does not seem to contain any factors from new physics”, Eurekalert",
       "date": "2024-07"
