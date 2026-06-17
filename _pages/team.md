@@ -15,14 +15,10 @@ Rene Poncelet
 
 <h3> Gioanni Limantola - PostDoc</h3>
 start in October 2026 - P3EWSB project
-
 <h3> Manuel Lopez - PhD </h3>
 start in October 2026 - P3EWSB project
 <h3> Giulia Marinelli - PostDoc</h3>
 start in October 2026 - STAPLE project
-<h3> Minos Rainartz - PostDoc</h3>
-start in October 2026 - STAPLE project
-
 
 <h2> Open positions </h2>
 
