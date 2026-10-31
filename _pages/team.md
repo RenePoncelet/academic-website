@@ -20,7 +20,7 @@ start in October 2026 - P3EWSB project
 <h3> Giulia Marinelli - PostDoc</h3>
 start in October 2026 - STAPLE project
 
-<img src=".../assets/img/Marinelli.jpg" alt="Guilia Marinelli" >
+<img src="../assets/img/marinelli.png" alt="Giulia Marinelli" >
 <p>
 I am a postdoctoral research assistant currently based in Kraków. Before moving here, I completed both my Bachelor's and Master's degrees at Sapienza University of Rome, followed by a PhD at the University of Milano-Bicocca. I then moved to Hamburg for my first postdoc at DESY, before eventually landing in Kraków.
 
