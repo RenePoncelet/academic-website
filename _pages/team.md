@@ -13,12 +13,23 @@ Rene Poncelet
 
 <h2> Team Members </h2>
 
-<h3> Gioanni Limantola - PostDoc</h3>
+<h3> Giovanni Limantola - PostDoc</h3>
 start in October 2026 - P3EWSB project
 <h3> Manuel Lopez - PhD </h3>
 start in October 2026 - P3EWSB project
 <h3> Giulia Marinelli - PostDoc</h3>
 start in October 2026 - STAPLE project
+
+<img src=".../assets/img/Marinelli.jpg" alt="Guilia Marinelli" >
+<p>
+I am a postdoctoral research assistant currently based in Kraków. Before moving here, I completed both my Bachelor's and Master's degrees at Sapienza University of Rome, followed by a PhD at the University of Milano-Bicocca. I then moved to Hamburg for my first postdoc at DESY, before eventually landing in Kraków.
+
+My research focuses on precision phenomenology for the Large Hadron Collider, with a particular interest in the QCD side of things. I mainly work on resummation and Monte Carlo event generators, although I occasionally venture into other territories, such as electroweak corrections.
+
+A major part of my research is devoted to understanding and estimating theory uncertainties, particularly in LHC phenomenology, but with potential applications well beyond it.
+
+And while I certainly don't judge anyone who uses scale variations, let's just say they're not exactly my favourite approach (:
+<\p>
 
 <h2> Open positions </h2>
 
