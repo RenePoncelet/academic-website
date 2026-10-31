@@ -37,6 +37,20 @@ nav_order: 6
 
 <h2> international conferences</h2>
 
+<h6> <b> High-precision QCD physics at FCC-ee </b> </h6>
+<p>
+2026.10.01, Oxford, QCD@LHC,
+<a href="https://indico.global/event/17070/">website</a>,
+<a href="../assets/talks/2026.10.01-Oxford-FCCee-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Photon pair production at next-to-next-to-next-to-leading order </b> </h6>
+<p>
+2026.09.28, Oxford, QCD@LHC,
+<a href="https://indico.global/event/17070/">website</a>,
+<a href="../assets/talks/2026.09.28-Oxford-QCD@LHC-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b>Variance reduction with Normalizing Flows </b> </h6>
 <p>
 2026.05.20, Paris, LHCP,
@@ -513,6 +527,33 @@ nav_order: 6
 
 <h2>workshops</h2>
 
+<h6> <b> Perturbative QCD at the LHC </b> </h6>
+<p>
+2026.10.18, Warsaw, Various Faces of QCD,
+<a href="https://events.ncbj.gov.pl/event/464">website</a>,
+<a href="../assets/talks/2026.10.18-Warsaw-VariousFacesOfQCD-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Energy Correlators in V+X as a Benchmark Observable for Precision QCD </b> </h6>
+<p>
+2026.10.12, online, QCD at the Extremes,
+<a href="https://indico.cern.ch/event/1601346/">website</a>,
+<a href="../assets/talks/2026.10.12-QCDAtTheExtremes-online-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Theory review on polarised bosons </b> </h6>
+<p>
+2026.07.01, Perugia, COMETA workshop on polarization tagging for hadronic boosted bosons,
+<a href="https://indico.cern.ch/event/1601346/">website</a>,
+<a href="../assets/talks/2026.07.01-Perugia-COMETA-UmbriaJets-poncelet.pdf">slides</a>
+</p>
+
+<h6> <b> Missing Higher Order Uncertainties with focus on top-antitop production </b> </h6>
+<p>
+2026.06.09, CERN (remote), PMG week,
+<a href="https://indico.cern.ch/event/1646181/">website</a>,
+<a href="../assets/talks/2026.06.09-CERN-PMG-week-poncelet.pdf">slides</a>
+</p>
 
 <h6> <b> Uncertainties from missing higher orders for precision measurements </b> </h6>
 <p>
@@ -628,6 +669,13 @@ nav_order: 6
 
 <h2>working groups</h2>
 
+<h6> <b> Phenomenology of jet flavour algorithms </b> </h6>
+<p>
+2026.10.06, FCC-ee Jet-Flavour-Tagging Group,
+<a href="https://indico.cern.ch/event/1726746/">website</a>,
+<a href="../assets/talks/2026.10.06-FCC-flavour-tagging-poncelet.pdf">slides</a>
+</p>
+
 <h6> <b> Multi-boson polarizations </b> </h6>
 <p>
 2026.03.31, General LHC EW Meeting,
@@ -733,6 +781,12 @@ at the LHC </b> </h6>
 
 
 <h2>other</h2>
+
+<p>
+<h6> <b> Mastering the ERC Grant Application </b> </h6>
+2026.10.29, Cracow - IFJ PAN, ERC application tutorial,
+<a href="../assets/talks/2026.10.29-ERC_Grant_Application_Tutorial-poncelet.pdf">slides</a>
+</p>
 
 <p>
 <h6> <b> Precision QCD phenomenology for multi-scale processes at the Large Hadron Collider </b> </h6>

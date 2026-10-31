@@ -27,8 +27,8 @@
       "position": "Institute Professor",
       "url": "https://th.ifj.edu.pl/",
       "startDate": "2026-03-01",
-      "summary": "Member of the theoretical particle physics department. Research interests: higher-order QCD computations for multi-scale processes, jet physics, fixed-order fragmentation, multi-loop computations, subtraction methods",
-      "highlights": ["N3LO QCD","Top-quark physics","Theory uncertainties"]
+      "summary": "Member of the theoretical particle physics department. Research interests: higher-order QCD computations for multi-scale processes, jet physics, parton-shower matching, subtraction methods",
+      "highlights": ["N3LO QCD","Top-quark physics","Theory uncertainties","Parton shower"]
     },
     {
       "name": "IFJ PAN Cracow",
@@ -67,7 +67,7 @@
     {
       "institution": "IFJ PAN",
       "location": "Krakow, Poland",
-      "url": "https://www.rwth-aachen.de/",
+      "url": "https://ifj.edu.pl",
       "area": "Theoretical Particle Physics",
       "studyType": "Doctor habilitated (dr hab)",
       "startDate": "2023-10-01",
@@ -112,9 +112,14 @@
   ],
   "awards": [
     {
+      "title": "Nagrody Prezesa Rady Ministrów",
+      "date": "2026-10-08",
+      "awarder": "Ministry of Science Poland"
+    },
+    {
       "title": "Małopolska Polish Academy of Sciences Award - Distinction",
       "date": "2026-05-21",
-      "awarder": "PAN Krakw"
+      "awarder": "PAN Krakow"
     },
     {
       "title": "Guido Altarelli Award",
@@ -202,6 +207,26 @@
     }
   ],
   "activity":[
+    {
+      "title": "SM@LHC27 LOC",
+      "date": "2026-09"
+    },
+    {
+      "title": "LHCP 2027 Programme Committee",
+      "date": "2026-08"
+    },
+    {
+      "title": "Convener for Collider Physics - 6th Symposium of the Division for Physics of Fundamental Interactions of the Polish Physical Society",
+      "date": "2026-07"
+    },
+    {
+      "title": "QCD@LHC27 LOC",
+      "date": "2026-07"
+    },
+    {
+      "title": "FCC-ee PED QCD and photon-photon physics convener",
+      "date": "2026-05"
+    },
     {
       "title": "International Advisory Committee TOP workshop",
       "date": "2026-01"
@@ -349,6 +374,22 @@
   ],
   "teaching":[
     {
+      "title": "QCD and jets, Herbstschule HEP, Bad Honnef",
+      "startDate": "2026"
+    },
+    {
+      "title": "Precision multiboson calculations and polarised states, COMETA Multiboson school, Split",
+      "startDate": "2026"
+    },
+    {
+      "title": "QCD, ESHEP, Ostroda",
+      "startDate": "2026"
+    },
+    {
+      "title": "Higher-order calculations in QCD, Terascale Monte Carlo School 2025, Hamburg",
+      "startDate": "2025"
+    },
+    {
       "title": "Quantum Field Theory Lecture for PhD students, IFJ PAN, Cracow",
       "startDate": "2024"
     },
@@ -378,6 +419,16 @@
     }
   ],
   "mentoring":[
+    {
+      "title": "PPSS - IFJ summer student programme 2026",
+      "startDate": "2026",
+      "endDate": "2026"
+    },
+    {
+      "title": "PPSS - IFJ summer student programme 2024",
+      "startDate": "2024",
+      "endDate": "2024"
+    },
     {
       "title": "Supervision Louis Christou, Summerstudent & Part III project, Cavendish Laboratory, Cambridge",
       "startDate": "2023",
