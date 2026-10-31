@@ -20,7 +20,7 @@ nav_order: 8
 </p>
 
 
-<h2>Art & COnference Posters by Judith Fronczek-Poncelet</h2>
+<h2>Art & Conference Posters by Judith Fronczek-Poncelet</h2>
 
 Intrigued by the idea of visualising the abstract topic of particle physics artistically, Judith started creating paintings inspired by Rene’s work on theoretical particle physics.
 She also created several of the Posters used for conferences in Cracow.
@@ -41,6 +41,7 @@ She also created several of the Posters used for conferences in Cracow.
 
 <h6> <b>Boost 2026</b> </h6>
 <img src="../assets/art/2026-jfp-BoostBanner_art_only.png" alt="Boost Poster 2026 Wawel and Wawel dragon" style="width:297px;">
+
 <img src="../assets/art/2026-jfp-Boost_art_only.png" alt="Boost Poster 2026 Wawel and Wawel dragon" style="width:297px;height:436px;">
 <p>
 
@@ -49,6 +50,7 @@ She also created several of the Posters used for conferences in Cracow.
 
 <h6> <b>QCD@LHC 2027</b> </h6>
 <img src="../assets/art/2027-jfp-QCDLHCBanner_art_only.png" alt="QCD@LHC Banner, Stained glass of a jet pair production" style="width:300px;">
+
 <img src="../assets/art/2027-jfp-QCDLHC_art_only.png" alt="QCD@LHC Poster, Stained glass of Cracow and transverse plots" style="width:300px;">
 <p>
 
@@ -57,6 +59,7 @@ She also created several of the Posters used for conferences in Cracow.
 
 <h6> <b>SM@LHC 2027 Work in Progress</b> </h6>
 <img src="../assets/art/2027-jfp-SMLHCBanner_art_only.png" alt="SM@LHC Banner, The Standard model in typical Cracow treats" style="width:300px;">
+
 <img src="../assets/art/2027-jfp-SMLHC_art_only.png" alt="SM@LHC Poster, The Standard model in typical Cracow treats" style="width:300px;">
 <p>
 
@@ -66,5 +69,5 @@ She also created several of the Posters used for conferences in Cracow.
 
 <h5> <b> About the artist </b> </h5>
 <p>
-Judith Fronczek-Poncelet is a hobby artist interested in motives of nature, both realistic and fantastical. Typically working with acrylic, chalk and coloured pencils, she recently started to use impressionistic oil paintings as a medium, and branched into digital art from conference posters.
+Judith Fronczek-Poncelet is a hobby artist interested in motives of nature, both realistic and fantastical. Typically working with acrylic, chalk and coloured pencils, she recently started to use impressionistic oil paintings as a medium, and branched into digital art for conference posters.
 </p>
